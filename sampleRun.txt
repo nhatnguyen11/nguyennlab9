@@ -1,0 +1,46 @@
+./main
+How many stocks 2
+Enter the Stock Symbol MSFT
+Enter the Company Name Microsoft
+Enter the Stock Price 123.45
+Enter the Stock Symbol GOOG
+Enter the Company Name Google
+Enter the Stock Price 654.32
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 1
+Google - GOOG - $654.32
+
+Microsoft - MSFT - $123.45
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+Google - GOOG - $654.32
+
+Microsoft - MSFT - $123.45
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 3
+Microsoft - MSFT - $123.45
+
+Google - GOOG - $654.32
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 4
+all done
+ 
